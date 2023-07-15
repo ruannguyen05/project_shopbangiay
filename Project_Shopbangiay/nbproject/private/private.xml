@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/dal/ReplyDAO.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/Home.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/dal/CommentDAO.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/CheckDangKySellerServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/ManagerProduct.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/model/Constants.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/ManagerAccount.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/BuyOrtherSeller.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/Detail.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/ManagerProduct.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/model/Comment.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/CartServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/model/Reply.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/SearchServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/dal/ProductDAO.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/BuyOtherSeller.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/User.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/UserManagerServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/Login.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/dal/AccountDAO.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/DetailServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/model/Account.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/SendCommentNotReply.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/ShowCartServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/CommentServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/Verify.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/ReplyServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/SendReplyServlet.java</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/web/Cart.jsp</file>
+            <file>file:/E:/PRJ301/Project_Shopbangiay/src/java/controller/ManagerAccountServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
